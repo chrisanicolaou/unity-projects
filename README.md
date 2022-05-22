@@ -16,7 +16,7 @@
 
 ## Overview
 
-The following projects are small games, each of which serve to build my practical experience with the Unity game engine. I adopted a functionality first approach, with my main focus being learning and implementing different components of Unity, rather than producing beautifully polished games.
+The following projects are small "test" games, each of which serve to build my practical experience with the Unity game engine. I adopted a functionality first approach, with my main focus being learning and implementing different components of Unity, rather than producing complete and beautifully polished games.
 
 **If you would like to play, follow the [download](#download-and-play) section**.
 
@@ -54,7 +54,7 @@ UnityHub will now open the project in Unity.
 
 ## Projects
 
-The projects below are ordered by most recently created - as such, they typically build on my experience gained from the lower-down projects, while focusing on new features and components of Unity that I had not yet experimented with.
+The projects below are ordered by most recent - as such, they typically build on my experience gained from older projects, while implementing on new features and components of Unity that I had not yet experimented with.
 
 ### Pidge-Pong
 [**Repo Link**](https://github.com/chrisanicolaou/pidge-pong)
@@ -64,14 +64,22 @@ A mock version of ping-pong featuring art and audio of some extremely talented d
 ### The Ninja Who Runs
 [**Repo Link**](https://github.com/chrisanicolaou/the-ninja-who-runs)
 
-My first platformer, The Ninja Who Runs was an opportunity for me to attempt handling character and camera movement, animations, 
+My first platformer, The Ninja Who Runs was an opportunity for me to attempt several game concepts, such as handling character and camera movement, animations, HUDs, and enemy interactions. I really enjoyed working on this!
 
 ### Ciara's Tower Defense
+**(work in progress)** 
+
 [**Repo Link**](https://github.com/chrisanicolaou/ciaras-tower-defense)
+
+My partner is a big fan of Bloons Tower Defense, motivating me to try and create a tower defense of my own. This was an extremely challenging jump from my previous work. This is my first experience with creating my own assets, using tilemaps in Unity, handling enemy pathing, click & drop functionality, automated combat, and an upgrade UI & system. I'm hoping I could come back to this once I'm more experienced and create a full finished & polished version!
 
 ### Pac-Man 2
 [**Repo Link**](https://github.com/chrisanicolaou/pac-man-2)
 
+Following on from The Bird That Flapped, Pac-Man 2 solidified my understanding of prefabs, inputs, colliders, and allowed me to further explore physics. It was my first attempt at generating and controlling enemies. Having said that, it sadly doesn't play the same as Pac-Man because of my limited experience.
+
 ### The Bird That Flapped
 [**Repo Link**](https://github.com/chrisanicolaou/the-bird-that-flapped)
+
+Definitely not a flappy bird ripoff, The Bird That Flapped was my first Unity project and holds a special place in my heart. It really helped me to understand the basics of Unity - such as inputs, physics using Rigidbody, interactions with colliders, and prefabs. I would highly recommend starting with a similar game for any devs looking to get into game development. Unity can be overwhelming; breaking down the core concepts through a simple game is a great place to start.
 
